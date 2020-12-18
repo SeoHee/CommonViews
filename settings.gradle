@@ -1,0 +1,3 @@
+include ':libCustomViews'
+include ':app'
+rootProject.name = "CommonViews"
